@@ -3,7 +3,7 @@
 <p align="center"><img src="http://i.imgur.com/ZMzPga8.png" width="600"/></p>
 
 
-###Known problems
+### Known problems
 
 *(Those problems are due to limitations of Notepad++ syntax highlighting configurability)*
 
